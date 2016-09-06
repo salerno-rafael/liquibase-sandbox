@@ -1,4 +1,4 @@
-To execute:
-*gradle task dev update
-*gradle task qa update
-*gradle task prod update
+- To execute:
+	* <b>gradle task dev update</b>
+	* <b>gradle task qa update</b>
+  * <b>gradle task prod update</b>	
